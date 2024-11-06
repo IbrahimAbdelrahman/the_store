@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../globals/container";
+import Container from "../globals/Container";
 import Logo from "./Logo";
 import DarkMode from "./DarkMode";
 import CartButton from "./CartButton";
